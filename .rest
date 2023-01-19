@@ -11,8 +11,8 @@ POST http://localhost:5000/person HTTP/1.1
 content-type: application/json
 
 { 
-  "Id":123,
+  "Id":1123,
   "Name": "Giuseppe",
-  "Age": "thirty-seven"
+  "Age": 37,
 }
 #####
