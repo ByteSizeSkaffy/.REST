@@ -213,11 +213,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\meesv\\Downloads\\HelloWorld\\HelloWorld.csproj",
+      "projectUniqueName": "C:\\Users\\meesv\\OneDrive\\Documents\\GitHub\\.REST\\HelloWorld.csproj",
       "projectName": "HelloWorld",
-      "projectPath": "C:\\Users\\meesv\\Downloads\\HelloWorld\\HelloWorld.csproj",
+      "projectPath": "C:\\Users\\meesv\\OneDrive\\Documents\\GitHub\\.REST\\HelloWorld.csproj",
       "packagesPath": "C:\\Users\\meesv\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\meesv\\Downloads\\HelloWorld\\obj\\",
+      "outputPath": "C:\\Users\\meesv\\OneDrive\\Documents\\GitHub\\.REST\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\meesv\\AppData\\Roaming\\NuGet\\NuGet.Config",
