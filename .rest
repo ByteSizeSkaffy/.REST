@@ -7,11 +7,11 @@ GET http://localhost:5000/hello/Giuseppe
 GET http://localhost:5000/hello123/Giuseppe/Francesco/Ivan
 #####
 
-POST http://localhost:5000/person HTTP/1.1
+POST http://localhost:5000/Person HTTP/1.1
 content-type: application/json
 
 { 
-  "Id":1123,
+  "Id": 123,
   "Name": "Giuseppe",
   "Age": 37
 }
