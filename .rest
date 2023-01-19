@@ -13,6 +13,6 @@ content-type: application/json
 { 
   "Id":1123,
   "Name": "Giuseppe",
-  "Age": 37,
+  "Age": 37
 }
 #####
