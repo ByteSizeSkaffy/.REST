@@ -29,8 +29,7 @@ namespace Backend{
         public EndPointManager(WebApplication app){
             App = app;
             Db = new inMemoryDb();
-            App.MapGet("/helloworld", ()=> Results.Ok("hello world"));
-            App.MapPost("/Person", AddPerson);
+            App.MapPost("/person", AddPerson);
         }
         private IResult AddPerson(Person person){
             var existingPerson = Db.Person.FirstOrDefault(p => p.Id == person.Id);
